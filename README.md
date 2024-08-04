@@ -1,0 +1,1 @@
+This project focuses on the detection of air quality using Wireless Sensor Networks (WSN). The system consists of multiple sensor nodes deployed in different locations to monitor various air pollutants. The collected data is transmitted to a central server for analysis and visualization
